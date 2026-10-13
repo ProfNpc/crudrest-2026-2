@@ -1,0 +1,20 @@
+
+git config --global init.defaultBranch main
+git config --global core.autocrlf true
+git config --global core.safecrlf warn
+
+
+#Transforma o diretório em diretório gerenciado pelo Git
+git init
+
+#Na sua casa
+#git config --global user.name "Seu Nome"
+#git config --global user.email "seu_email@qualquercoisa.com"
+
+#Na escola
+git config --local user.name "Seu Nome"
+git config --local user.email "seu_email@qualquercoisa.com"
+
+
+
+
