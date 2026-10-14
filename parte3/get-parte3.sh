@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sts=/c/Users/6357510/Documents/Alessandro/sit-usp/sts-4.25.0.RELEASE/SpringToolSuite4.exe
+sts=/d/sts-4.32.2.RELEASE/SpringToolSuite4.exe
 
 rm -fr crudrest-2026-2
 rm -fr workspace
